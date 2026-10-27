@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/EQ_NUM.lsp",
+      "bytes": 2568,
+      "sha256": "c278f80f9604dd7d10bb0a9126cc3c552c2e88e46047392bcb28722b0718ec31",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "EQNUM",
+          "line": 114
+        }
+      ]
+    }
+  ]
+}
